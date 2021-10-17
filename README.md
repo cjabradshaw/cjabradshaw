@@ -3,7 +3,7 @@
 -->
 
 [![GitHub followers](https://img.shields.io/github/followers/cjabradshaw?label=Follow%20me&style=flat-square&logo=github&logoColor=white&colorB=0C0504)](https://github.com/login?return_to=%2Fcjabradshaw)
-[![Twitter follow](https://img.shields.io/twitter/follow/conservbytes?label=%20%40conservbytes&style=flat-square&labelColor=2196F3&logo=twitter&logoColor=white&colorB=0D47A1)](https://twitter.com/conservbytes)
+[![Twitter follow](https://img.shields.io/twitter/follow/conservbytes?label=%20%40conservbytes&style=flat-square&labelColor=2E7DEF&logo=twitter&logoColor=white&colorB=0D47A1)](https://twitter.com/conservbytes)
 [![Research Gate](https://img.shields.io/badge/-Research%20Gate-green.svg?style=flat-square&logo=researchgate&logoColor=white&colorB=616161&labelColor=00BFA5)](https://www.researchgate.net/profile/Corey-Bradshaw)
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-blue.svg?style=flat-square&logo=googlescholar&logoColor=white&colorB=616161&labelColor=2ECFEF)](https://scholar.google.com/citations?hl=en&user=1sO0O3wAAAAJ&view_op=list_works&sortby=pubdate)
 
