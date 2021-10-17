@@ -10,9 +10,9 @@
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-blue.svg?style=flat-square&logo=googlescholar&logoColor=white&colorB=2E7DEF&labelColor=2ECFEF)](https://scholar.google.com/citations?hl=en&user=1sO0O3wAAAAJ&view_op=list_works&sortby=pubdate)
 [![ORCID](https://img.shields.io/badge/-ORCID-green.svg?style=flat-square&logo=orcid&logoColor=white&colorB=71DA0E&labelColor=0EDA11)](https://orcid.org/0000-0002-5328-7741)
 
+[<img src="CABAH.png" alt="ARC Centre of Excellence for Australian Biodiversity and Heritage" width="100" align="right" />](http://EpicAustralia.org.au)
 [<img src="F_V_CMYK.png" alt="Flinders University" width="100" align="right" />](http://www.flinders.edu.au)
 [<img src="GEL Logo Kaurna transparent.png" alt="Global Ecology Laboratory" width="100" align="right" />](http://GlobalEcologyFlinders.com)
-[<img src="CABAH.png" alt="ARC Centre of Excellence for Australian Biodiversity and Heritage" width="100" align="right" />](http://EpicAustralia.org.au)
 
 ## Background
 I am the <a href="http://www.flinders.edu.au/people/corey.bradshaw">Matthew Flinders Professor of Global Ecology</a> and Director of the <a href="https://globalecologyflinders.com/">Global Ecology Laboratory</a> at <a href="http://www.flinders.edu.au">Flinders University</a> in <a href="https://www.google.com.au/maps/place/Adelaide+SA/@-35.0004451,138.3309765,10z/data=!3m1!4b1!4m5!3m4!1s0x6ab735c7c526b33f:0x4033654628ec640!8m2!3d-34.9284989!4d138.6007456">Adelaide</a>, South Australia. I am an internationally renowned mathematical ecologist specialising in biodiversity conservation and sustainability research. I use mathematics to bind disparate disciplines in the sciences and humanities to reveal and predict the behaviour of complex ecosystems. My goal is to limit the damage to the biosphere caused by human endeavour so that future generations can maximise health, wealth, and wellbeing.
