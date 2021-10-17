@@ -13,5 +13,65 @@
 ## Background
 I am the <a href="http://www.flinders.edu.au/people/corey.bradshaw">Matthew Flinders Professor of Global Ecology</a> and Director of the <a href="https://globalecologyflinders.com/">Global Ecology Laboratory</a> at <a href="http://www.flinders.edu.au">Flinders University</a> in Adelaide, South Australia. I am an internationally renowned mathematical ecologist specialising in biodiversity conservation and sustainability research. I use mathematics to bind disparate disciplines in the sciences and humanities to reveal and predict the behaviour of complex ecosystems. My goal is to limit the damage to the biosphere caused by human endeavour so that future generations can maximise health, wealth, and wellbeing.
 
-## Highlighted respositories
+## Highlighted repositories
+- <em>[LeslieMatrixShiny](https://cjabradshaw.shinyapps.io/LeslieMatrixShiny/)</em>: R Shiny app to project an age-classified population stochastically
+- [stochastic models for predicting feral cat eradication and costs on large islands](https://github.com/cjabradshaw/FeralCatEradication)
+- [effect of different culling regimes on feral pig populations on Kangaroo Island](https://github.com/cjabradshaw/KIpigCull)
+- [stochastic demographic models for Sahul megafauna species](https://github.com/cjabradshaw/MegafaunaSusceptibility) (see also individual models for some extant species included for comparison): [red kangaroo population model](https://github.com/cjabradshaw/KangarooPopModel), [short-beaked echidna population model](https://github.com/cjabradshaw/EchidnaPopModel), [emu population model](https://github.com/cjabradshaw/EmuPopModel), [spotted-tail quoll population model](https://github.com/cjabradshaw/SpottedTailQuollModel), [common wombat population model](https://github.com/cjabradshaw/WombatPopModel), [brush turkey population model](https://github.com/cjabradshaw/BrushTurkeyPopModel)
+- [spatio-temporal models of megafauna extirpation in Sahul](https://github.com/cjabradshaw/SEOZ_megafauna_extirpation)
+- [whaler shark (_Carcharhinus brachyurus_) sustainable harvest model](https://github.com/cjabradshaw/WhalerSharkModel)
+- [ecological-economic models of sustainable harvest for banteng <em>Bos javanicus</em> in northern Australia](https://github.com/cjabradshaw/bantengharvest)
+- [range changes in British birds](https://github.com/cjabradshaw/BritishBirdsRangeChange)
+- [population model for Tasmanian devils](https://github.com/cjabradshaw/devilpopmodel)
+- [offtake effects on banteng (_Bos javanicus_)](https://github.com/cjabradshaw/bantengharvest)
+- [density-independent processes decouple component and ensemble density feedbacks](https://github.com/cjabradshaw/DensityFeedbackSims)
 
+### _Invasive Species_
+- [estimating the cost of invasive species to Australia](https://github.com/cjabradshaw/InvasiveSppCostsAustralia)
+- <code>InvaCost</code> R Package: [Global Costs of Biological Invasions](https://github.com/cjabradshaw/invacost)
+- [correlating life history with status (threatened/invasive) of legumes](https://github.com/cjabradshaw/legumeStatus)
+- [offtake effects on banteng (_Bos javanicus_)](https://github.com/cjabradshaw/bantengharvest)
+
+### _Sharks_
+- [deterrent trials for devices used to reduce the incidence of white shark (_Carcharodon carcharias_) attacks](https://github.com/cjabradshaw/whitesharkdeterrents)
+- [predicting shark bites in Australia](https://github.com/cjabradshaw/sharkbite)
+- [whaler shark (_Carcharhinus brachyurus_) sustainable harvest model](https://github.com/cjabradshaw/WhalerSharkModel)
+
+### _Human Population Dynamics & Movement_
+- [cellular-automaton model of human spread across Sahul](https://github.com/cjabradshaw/SahulHumanSpread)
+- [age-structured models of ancient humans entering Sahul](https://github.com/cjabradshaw/SahulHuman)
+- [matrix projection models for the global human population](https://github.com/cjabradshaw/globalhumanmodel)
+- [correlates of human fertility among low- and middle-income nations](https://github.com/cjabradshaw/humanfertility)
+
+### _Environmental Change_
+- [relationships between environmental degradation and socio-economic variables among African nations](https://github.com/cjabradshaw/EnvironRankAfrica)
+- [relationship between flooding and deforestation](https://github.com/cjabradshaw/forestsfloods)
+- [temporal shifts in intervals between extreme total annual rainfall](https://github.com/cjabradshaw/precipExtremes)
+
+### _Ecological Networks_
+- [global co-extinction projections under climate and land-use changes](https://github.com/cjabradshaw/global_coextinctions)
+- [palaeo-ecological networks for estimating trophic cascades of the Naracoorte community](https://github.com/cjabradshaw/Inferring-networks-and-modelling-trophic-cascades)
+- [planetary annihilation co-extinctions simulation](https://github.com/cjabradshaw/co-extinctions)
+
+### _Health & Disease_
+- [socio-economic and environmental determinants of child-health outcomes among African nations](https://github.com/cjabradshaw/AfricaChildHealth)
+- [estimating effects of temporal distancing to reduce infection risk](https://github.com/cjabradshaw/COVID19distancing)
+- [predicting the interaction between diseases for European rabbits to maximise biological control](https://github.com/cjabradshaw/rabbitdisease)
+- [population model for Tasmanian devils](https://github.com/cjabradshaw/devilpopmodel)
+
+### _Correlates of Extinction_
+- [correlating life history with status (threatened/invasive) of legumes](https://github.com/cjabradshaw/legumeStatus)
+
+### _Bibliometrics_
+- [ranking researchers fairly by citation performance (the '_ε_-index')](https://github.com/cjabradshaw/EpsilonIndex); you can also try the web version to calculate the index for your own sample of researchers by visiting [cjabradshaw.shinyapps.io/epsilonIndex](https://cjabradshaw.shinyapps.io/epsilonIndex/)
+- fetching and analysing [Altmetric](https://www.altmetric.com/about-altmetrics/what-are-altmetrics/) data for a submitted set of article [digital object identifiers](https://www.doi.org/) (doi) — [cjabradshaw.shinapps.io/AltmetricShiny](https://cjabradshaw.shinyapps.io/AltmetricShiny/) (R Shiny App)
+- [ranking journals using multiple citation indices](https://github.com/cjabradshaw/JournalRanks); you can also try the web version to calculate the bootstrapped rank for your own sample of journals by visiting [cjabradshaw.shinyapps.io/JournalRankShiny](https://cjabradshaw.shinyapps.io/JournalRankShiny/)
+- [100 papers every ecologist should read](https://github.com/cjabradshaw/HIPE)
+
+### _Amusing_
+- [probability two people in a group of a specified size share the same birthday](https://github.com/cjabradshaw/SameBirthdayShiny) (R Shiny app)
+
+### _Other_
+- [my papers sorted by Altmetric score (only the top-scoring papers included)](https://cjabradshaw.github.io/AltmetricBradshaw/)
+- [100 papers every ecologist should read](https://github.com/cjabradshaw/HIPE)
+- [gun deaths ~ gun ownership analysis](https://github.com/cjabradshaw/guns)
