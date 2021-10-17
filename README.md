@@ -43,6 +43,7 @@ I am the <a href="http://www.flinders.edu.au/people/corey.bradshaw">Matthew Flin
 - [deterrent trials for devices used to reduce the incidence of white shark (_Carcharodon carcharias_) attacks](https://github.com/cjabradshaw/whitesharkdeterrents)
 - [predicting shark bites in Australia](https://github.com/cjabradshaw/sharkbite)
 - [whaler shark (_Carcharhinus brachyurus_) sustainable harvest model](https://github.com/cjabradshaw/WhalerSharkModel)
+- [Australian Shark-Incident Database](https://github.com/cjabradshaw/AustralianSharkIncidentDatabase) (ASID)
 
 ### _Human population dynamics & movement_
 - [cellular-automaton model of human spread across Sahul](https://github.com/cjabradshaw/SahulHumanSpread)
