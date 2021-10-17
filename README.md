@@ -72,3 +72,10 @@ I am the <a href="http://www.flinders.edu.au/people/corey.bradshaw">Matthew Flin
 - [my papers sorted by Altmetric score (only the top-scoring papers included)](https://cjabradshaw.github.io/AltmetricBradshaw/)
 - [100 papers every ecologist should read](https://github.com/cjabradshaw/HIPE)
 - [gun deaths ~ gun ownership analysis](https://github.com/cjabradshaw/guns)
+
+<br>
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=cjabradshaw&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjabradshaw&layout=compact&theme=onedark)
+
+![Metrics](https://metrics.lecoq.io/cjabradshaw?template=classic&config.timezone=Australia%2FAdelaide)
