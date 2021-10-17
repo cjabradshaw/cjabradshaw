@@ -14,11 +14,11 @@
 I am the <a href="http://www.flinders.edu.au/people/corey.bradshaw">Matthew Flinders Professor of Global Ecology</a> and Director of the <a href="https://globalecologyflinders.com/">Global Ecology Laboratory</a> at <a href="http://www.flinders.edu.au">Flinders University</a> in Adelaide, South Australia. I am an internationally renowned mathematical ecologist specialising in biodiversity conservation and sustainability research. I use mathematics to bind disparate disciplines in the sciences and humanities to reveal and predict the behaviour of complex ecosystems. My goal is to limit the damage to the biosphere caused by human endeavour so that future generations can maximise health, wealth, and wellbeing.
 
 ## Highlighted repositories
-### _RShiny apps_
-- <em>[LeslieMatrixShiny](https://cjabradshaw.shinyapps.io/LeslieMatrixShiny/)</em>: R Shiny app to project an age-classified population stochastically
-- [ranking researchers fairly by citation performance (the '_ε_-index')](https://cjabradshaw.shinyapps.io/epsilonIndex/)
-- fetching and analysing [Altmetric](https://www.altmetric.com/about-altmetrics/what-are-altmetrics/) data for a submitted set of article [digital object identifiers](https://www.doi.org/) (doi) — [cjabradshaw.shinapps.io/AltmetricShiny](https://cjabradshaw.shinyapps.io/AltmetricShiny/)
-- [ranking journals using multiple citation indices](https://cjabradshaw.shinyapps.io/JournalRankShiny/)
+### _R Shiny apps_
+- project an age-classified population stochastically — [LeslieMatrixShiny](https://cjabradshaw.shinyapps.io/LeslieMatrixShiny/)
+- ranking researchers fairly by citation performance (the '_ε_-index') — [EpsilonIndexShiny](https://cjabradshaw.shinyapps.io/epsilonIndex/)
+- fetching and analysing [Altmetric](https://www.altmetric.com/about-altmetrics/what-are-altmetrics/) data for a submitted set of article [digital object identifiers](https://www.doi.org/) (doi) — [AltmetricShiny](https://cjabradshaw.shinyapps.io/AltmetricShiny/)
+- ranking journals using multiple citation indices — [JournalRankShiny](https://cjabradshaw.shinyapps.io/JournalRankShiny/)
 
 ### _Animal population dynamics_
 - [stochastic models for predicting feral cat eradication and costs on large islands](https://github.com/cjabradshaw/FeralCatEradication)
