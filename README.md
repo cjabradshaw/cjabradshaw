@@ -4,6 +4,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/cjabradshaw?label=Follow%20me&style=flat-square&logo=github&logoColor=white&colorB=0C0504)](https://github.com/login?return_to=%2Fcjabradshaw)
 [![Twitter follow](https://img.shields.io/twitter/follow/conservbytes?label=%20%40conservbytes&style=flat-square&labelColor=2E7DEF&logo=twitter&logoColor=white&colorB=0D47A1)](https://twitter.com/conservbytes)
+[![Facebook](https://img.shields.io/facebook/follow/conservbytes?label=%20%40conservbytes&style=flat-square&labelColor=2E7DEF&logo=facebook&logoColor=white&colorB=0D47A1)](https://www.facebook.com/conservbytes)
 [![Research Gate](https://img.shields.io/badge/-Research%20Gate-green.svg?style=flat-square&logo=researchgate&logoColor=white&colorB=616161&labelColor=00BFA5)](https://www.researchgate.net/profile/Corey-Bradshaw)
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-blue.svg?style=flat-square&logo=googlescholar&logoColor=white&colorB=2E7DEF&labelColor=2ECFEF)](https://scholar.google.com/citations?hl=en&user=1sO0O3wAAAAJ&view_op=list_works&sortby=pubdate)
 [![ORCID](https://img.shields.io/badge/-ORCID-green.svg?style=flat-square&logo=orcid&logoColor=white&colorB=71DA0E&labelColor=0EDA11)](https://orcid.org/0000-0002-5328-7741)
