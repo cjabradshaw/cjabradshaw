@@ -39,7 +39,7 @@ I am the <a href="http://www.flinders.edu.au/people/corey.bradshaw">Matthew Flin
 
 ### _Invasive species_
 - [estimating the cost of invasive species to Australia](https://github.com/cjabradshaw/InvasiveSppCostsAustralia)
-- <code>InvaCost</code> <em>R</em> Package: [Global Costs of Biological Invasions](https://github.com/cjabradshaw/invacost)
+- <code>InvaCost</code> <em>R</em> package: [global costs of biological invasions](https://github.com/cjabradshaw/invacost)
 - [correlating life history with status (threatened/invasive) of legumes](https://github.com/cjabradshaw/legumeStatus)
 - [offtake effects on banteng (_Bos javanicus_)](https://github.com/cjabradshaw/bantengharvest)
 
