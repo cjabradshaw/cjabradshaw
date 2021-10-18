@@ -2,8 +2,8 @@
 **cjabradshaw/cjabradshaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-[![GitHub followers](https://img.shields.io/github/followers/cjabradshaw?label=Follow%20me&style=flat-square&logo=github&logoColor=white&colorB=0C0504)](https://github.com/login?return_to=%2Fcjabradshaw)
-[![Twitter follow](https://img.shields.io/twitter/follow/conservbytes?label=%20%40conservbytes&style=flat-square&labelColor=2E7DEF&logo=twitter&logoColor=white&colorB=0D47A1)](https://twitter.com/conservbytes)
+[![GitHub followers](https://img.shields.io/github/followers/cjabradshaw?label=Follow&style=flat-square&logo=github&logoColor=white&colorB=0C0504)](https://github.com/login?return_to=%2Fcjabradshaw)
+[![Twitter follow](https://img.shields.io/twitter/follow/conservbytes?label=%20%40ConservBytes&style=flat-square&labelColor=2E7DEF&logo=twitter&logoColor=white&colorB=0D47A1)](https://twitter.com/conservbytes)
 [![Facebook](https://img.shields.io/badge/-Facebook-blue.svg?style=flat-square&logo=facebook&logoColor=white&colorB=0E55DA&labelColor=210EDA)](https://www.facebook.com/conservbytes)
 [![Instagram](https://img.shields.io/badge/-Instagram-red.svg?style=flat-square&logo=instagram&logoColor=white&colorB=C41230&labelColor=F72246)](https://www.instagram.com/cjabradshaw/)
 [![Research Gate](https://img.shields.io/badge/-Research%20Gate-green.svg?style=flat-square&logo=researchgate&logoColor=white&colorB=616161&labelColor=00BFA5)](https://www.researchgate.net/profile/Corey-Bradshaw)
