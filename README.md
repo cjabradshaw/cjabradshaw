@@ -5,7 +5,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/cjabradshaw?label=Follow&style=flat-square&logo=github&logoColor=white&colorB=0C0504)](https://github.com/login?return_to=%2Fcjabradshaw)
 [![Twitter follow](https://img.shields.io/twitter/follow/conservbytes?label=%20%40ConservBytes&style=flat-square&labelColor=2E7DEF&logo=twitter&logoColor=white&colorB=0D47A1)](https://twitter.com/conservbytes)
 [![Facebook](https://img.shields.io/badge/-Facebook-blue.svg?style=flat-square&logo=facebook&logoColor=white&colorB=0E55DA&labelColor=210EDA)](https://www.facebook.com/conservbytes)
-[![Instagram](https://img.shields.io/badge/-Instagram-red.svg?style=flat-square&logo=instagram&logoColor=white&colorB=C41230&labelColor=F72246)](https://www.instagram.com/cjabradshaw/)
+[![Instagram](https://img.shields.io/badge/-Instagram-red.svg?style=flat-square&logo=instagram&logoColor=white&colorB=C41230&labelColor=BA22F7)](https://www.instagram.com/cjabradshaw/)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue.svg?style=flat-square&logo=linkedin&logoColor=white&colorB=0E55DA&labelColor=210EDA)](https://www.linkedin.com/in/cjabradshaw/)
 [![Research Gate](https://img.shields.io/badge/-Research%20Gate-green.svg?style=flat-square&logo=researchgate&logoColor=white&colorB=616161&labelColor=00BFA5)](https://www.researchgate.net/profile/Corey-Bradshaw)
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-blue.svg?style=flat-square&logo=googlescholar&logoColor=white&colorB=2E7DEF&labelColor=2ECFEF)](https://scholar.google.com/citations?hl=en&user=1sO0O3wAAAAJ&view_op=list_works&sortby=pubdate)
