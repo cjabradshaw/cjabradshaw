@@ -57,18 +57,18 @@ I am the <a href="http://www.flinders.edu.au/people/corey.bradshaw">Matthew Flin
 
 ### _Environmental change_
 - [relationships between environmental degradation and socio-economic variables among African 🌍 nations](https://github.com/cjabradshaw/EnvironRankAfrica)
-- [relationship between flooding and deforestation 🌳](https://github.com/cjabradshaw/forestsfloods)
-- [temporal shifts in intervals between extreme total annual rainfall](https://github.com/cjabradshaw/precipExtremes)
+- [relationship between flooding 🌧️ and deforestation 🌳](https://github.com/cjabradshaw/forestsfloods)
+- [temporal shifts in intervals between extreme total annual rainfall ⛈️](https://github.com/cjabradshaw/precipExtremes)
 
 ### _Ecological networks_
-- [global co-extinction projections under climate 🌤️ and land-use changes](https://github.com/cjabradshaw/global_coextinctions)
+- [global co-extinction projections under climate 🌤️ and land-use 🏙️ changes](https://github.com/cjabradshaw/global_coextinctions)
 - [palaeo-ecological networks for estimating trophic cascades of the Naracoorte community](https://github.com/cjabradshaw/Inferring-networks-and-modelling-trophic-cascades)
 - [planetary annihilation co-extinctions simulation 🖥️](https://github.com/cjabradshaw/co-extinctions)
 
 ### _Health & disease_
 - [socio-economic and environmental 🚰 determinants of child-health 🧒 outcomes among African nations](https://github.com/cjabradshaw/AfricaChildHealth)
-- [estimating effects of temporal distancing to reduce infection ⚕️ risk](https://github.com/cjabradshaw/COVID19distancing)
-- [predicting the interaction between diseases for European rabbits 🐇 to maximise biological control](https://github.com/cjabradshaw/rabbitdisease)
+- [estimating effects of temporal ⏲️ distancing to reduce infection ⚕️ risk](https://github.com/cjabradshaw/COVID19distancing)
+- [predicting the interaction between diseases 🦠 for European rabbits 🐇 to maximise biological control](https://github.com/cjabradshaw/rabbitdisease)
 - [population model for Tasmanian devils](https://github.com/cjabradshaw/devilpopmodel)
 
 ### _Correlates of extinction_
@@ -77,7 +77,7 @@ I am the <a href="http://www.flinders.edu.au/people/corey.bradshaw">Matthew Flin
 ### _Other_
 - [my papers sorted by Altmetric score (only the top-scoring papers included)](https://cjabradshaw.github.io/AltmetricBradshaw/)
 - [100 papers every ecologist should read](https://github.com/cjabradshaw/HIPE)
-- [gun deaths ~ gun 🔫 ownership analysis](https://github.com/cjabradshaw/guns)
+- [gun deaths 💀 ~ gun 🔫 ownership analysis](https://github.com/cjabradshaw/guns)
 
 <br>
 
