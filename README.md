@@ -18,7 +18,7 @@ I am the <a href="http://www.flinders.edu.au/people/corey.bradshaw">Matthew Flin
 [<img src="F_V_CMYK.png" alt="Flinders University" width="100" align="right" />](http://www.flinders.edu.au)
 [<img src="GEL Logo Kaurna transparent.png" alt="Global Ecology Laboratory" width="100" align="right" />](http://GlobalEcologyFlinders.com)
 
-## Highlighted repositories
+## ✨Highlighted✨ repositories
 ### _<a href="https://www.shinyapps.io">R Shiny</a> apps_
 - project an age-classified population stochastically — app: [LeslieMatrixShiny](https://cjabradshaw.shinyapps.io/LeslieMatrixShiny/); <a href="https://github.com/cjabradshaw/LeslieMatrixShiny"><em>R</em> code</a>
 - ranking researchers fairly by citation performance (the '_ε_-index') — app: [EpsilonIndexShiny](https://cjabradshaw.shinyapps.io/epsilonIndex/); <a href="https://github.com/cjabradshaw/EpsilonIndexShiny"><em>R</em> code</a>
