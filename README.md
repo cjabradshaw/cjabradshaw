@@ -26,21 +26,21 @@ I am the <a href="http://www.flinders.edu.au/people/corey.bradshaw">Matthew Flin
 - ranking journals using multiple citation indices — app: [JournalRankShiny](https://cjabradshaw.shinyapps.io/JournalRankShiny/); <a href="https://github.com/cjabradshaw/JournalRankShiny"><em>R</em> code</a>
 
 ### _Animal population dynamics_
-- [stochastic models for predicting feral cat eradication and costs on large islands](https://github.com/cjabradshaw/FeralCatEradication)
-- [effect of different culling regimes on feral pig populations on Kangaroo Island](https://github.com/cjabradshaw/KIpigCull)
-- [stochastic demographic models for Sahul megafauna species](https://github.com/cjabradshaw/MegafaunaSusceptibility) (see also individual models for some extant species included for comparison: [red kangaroo](https://github.com/cjabradshaw/KangarooPopModel), [short-beaked echidna](https://github.com/cjabradshaw/EchidnaPopModel), [emu](https://github.com/cjabradshaw/EmuPopModel), [spotted-tail quoll](https://github.com/cjabradshaw/SpottedTailQuollModel), [common wombat](https://github.com/cjabradshaw/WombatPopModel), [brush turkey](https://github.com/cjabradshaw/BrushTurkeyPopModel))
+- [stochastic models for predicting feral cat 🐈 eradication and costs on large islands](https://github.com/cjabradshaw/FeralCatEradication)
+- [effect of different culling regimes on feral pig 🐖 populations on Kangaroo Island](https://github.com/cjabradshaw/KIpigCull)
+- [stochastic demographic models for Sahul megafauna species](https://github.com/cjabradshaw/MegafaunaSusceptibility) (see also individual models for some extant species included for comparison: [red kangaroo 🦘](https://github.com/cjabradshaw/KangarooPopModel), [short-beaked echidna](https://github.com/cjabradshaw/EchidnaPopModel), [emu](https://github.com/cjabradshaw/EmuPopModel), [spotted-tail quoll](https://github.com/cjabradshaw/SpottedTailQuollModel), [common wombat](https://github.com/cjabradshaw/WombatPopModel), [brush turkey](https://github.com/cjabradshaw/BrushTurkeyPopModel))
 - [spatio-temporal models of megafauna extirpation in Sahul](https://github.com/cjabradshaw/SEOZ_megafauna_extirpation)
 - [whaler shark (_Carcharhinus brachyurus_) sustainable harvest model](https://github.com/cjabradshaw/WhalerSharkModel)
 - [ecological-economic models of sustainable harvest for banteng <em>Bos javanicus</em> in northern Australia](https://github.com/cjabradshaw/bantengharvest)
-- [range changes in British birds](https://github.com/cjabradshaw/BritishBirdsRangeChange)
+- [range changes in British birds 🐦](https://github.com/cjabradshaw/BritishBirdsRangeChange)
 - [population model for Tasmanian devils](https://github.com/cjabradshaw/devilpopmodel)
 - [offtake effects on banteng (_Bos javanicus_)](https://github.com/cjabradshaw/bantengharvest)
 - [density-independent processes decouple component and ensemble density feedbacks](https://github.com/cjabradshaw/DensityFeedbackSims)
 
 ### _Invasive species_
-- [estimating the cost of invasive species to Australia](https://github.com/cjabradshaw/InvasiveSppCostsAustralia)
-- <code>InvaCost</code> <em>R</em> package: [global costs of biological invasions](https://github.com/cjabradshaw/invacost)
-- [correlating life history with status (threatened/invasive) of legumes](https://github.com/cjabradshaw/legumeStatus)
+- [estimating the cost 💶 of invasive species to Australia 🇦🇺](https://github.com/cjabradshaw/InvasiveSppCostsAustralia)
+- <code>InvaCost</code> <em>R</em> package: [global costs 💶 of biological invasions](https://github.com/cjabradshaw/invacost)
+- [correlating life history with status (threatened/invasive) of legumes 🌱](https://github.com/cjabradshaw/legumeStatus)
 - [offtake effects on banteng (_Bos javanicus_)](https://github.com/cjabradshaw/bantengharvest)
 
 ### _Sharks_
@@ -56,28 +56,28 @@ I am the <a href="http://www.flinders.edu.au/people/corey.bradshaw">Matthew Flin
 - [correlates of human fertility among low- and middle-income nations](https://github.com/cjabradshaw/humanfertility)
 
 ### _Environmental change_
-- [relationships between environmental degradation and socio-economic variables among African nations](https://github.com/cjabradshaw/EnvironRankAfrica)
-- [relationship between flooding and deforestation](https://github.com/cjabradshaw/forestsfloods)
+- [relationships between environmental degradation and socio-economic variables among African 🌍 nations](https://github.com/cjabradshaw/EnvironRankAfrica)
+- [relationship between flooding and deforestation 🌳](https://github.com/cjabradshaw/forestsfloods)
 - [temporal shifts in intervals between extreme total annual rainfall](https://github.com/cjabradshaw/precipExtremes)
 
 ### _Ecological networks_
-- [global co-extinction projections under climate and land-use changes](https://github.com/cjabradshaw/global_coextinctions)
+- [global co-extinction projections under climate 🌤️ and land-use changes](https://github.com/cjabradshaw/global_coextinctions)
 - [palaeo-ecological networks for estimating trophic cascades of the Naracoorte community](https://github.com/cjabradshaw/Inferring-networks-and-modelling-trophic-cascades)
-- [planetary annihilation co-extinctions simulation](https://github.com/cjabradshaw/co-extinctions)
+- [planetary annihilation co-extinctions simulation 🖥️](https://github.com/cjabradshaw/co-extinctions)
 
 ### _Health & disease_
-- [socio-economic and environmental determinants of child-health outcomes among African nations](https://github.com/cjabradshaw/AfricaChildHealth)
-- [estimating effects of temporal distancing to reduce infection risk](https://github.com/cjabradshaw/COVID19distancing)
-- [predicting the interaction between diseases for European rabbits to maximise biological control](https://github.com/cjabradshaw/rabbitdisease)
+- [socio-economic and environmental 🚰 determinants of child-health 🧒 outcomes among African nations](https://github.com/cjabradshaw/AfricaChildHealth)
+- [estimating effects of temporal distancing to reduce infection ⚕️ risk](https://github.com/cjabradshaw/COVID19distancing)
+- [predicting the interaction between diseases for European rabbits 🐇 to maximise biological control](https://github.com/cjabradshaw/rabbitdisease)
 - [population model for Tasmanian devils](https://github.com/cjabradshaw/devilpopmodel)
 
 ### _Correlates of extinction_
-- [correlating life history with status (threatened/invasive) of legumes](https://github.com/cjabradshaw/legumeStatus)
+- [correlating life history with status (threatened/invasive) of legumes 🌱](https://github.com/cjabradshaw/legumeStatus)
 
 ### _Other_
 - [my papers sorted by Altmetric score (only the top-scoring papers included)](https://cjabradshaw.github.io/AltmetricBradshaw/)
 - [100 papers every ecologist should read](https://github.com/cjabradshaw/HIPE)
-- [gun deaths ~ gun ownership analysis](https://github.com/cjabradshaw/guns)
+- [gun deaths ~ gun 🔫 ownership analysis](https://github.com/cjabradshaw/guns)
 
 <br>
 
