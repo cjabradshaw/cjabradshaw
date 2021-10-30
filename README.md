@@ -26,22 +26,20 @@ I am the <a href="http://www.flinders.edu.au/people/corey.bradshaw">Matthew Flin
 - ranking journals using multiple citation indices — app: [JournalRankShiny](https://cjabradshaw.shinyapps.io/JournalRankShiny/); <a href="https://github.com/cjabradshaw/JournalRankShiny"><em>R</em> code</a>
 
 ### _Animal population dynamics_
-- [stochastic models for predicting feral cat 🐈 eradication and costs on large islands](https://github.com/cjabradshaw/FeralCatEradication)
-- [effect of different culling regimes on feral pig 🐖 populations on Kangaroo Island](https://github.com/cjabradshaw/KIpigCull)
 - [stochastic demographic models for Sahul megafauna species](https://github.com/cjabradshaw/MegafaunaSusceptibility) (see also individual models for some extant species included for comparison: [red kangaroo 🦘](https://github.com/cjabradshaw/KangarooPopModel), [short-beaked echidna](https://github.com/cjabradshaw/EchidnaPopModel), [emu](https://github.com/cjabradshaw/EmuPopModel), [spotted-tail quoll](https://github.com/cjabradshaw/SpottedTailQuollModel), [common wombat](https://github.com/cjabradshaw/WombatPopModel), [brush turkey](https://github.com/cjabradshaw/BrushTurkeyPopModel))
 - [spatio-temporal models of megafauna extirpation in Sahul](https://github.com/cjabradshaw/SEOZ_megafauna_extirpation)
 - [whaler shark (_Carcharhinus brachyurus_) sustainable harvest model](https://github.com/cjabradshaw/WhalerSharkModel)
-- [ecological-economic models of sustainable harvest for banteng <em>Bos javanicus</em> in northern Australia](https://github.com/cjabradshaw/bantengharvest)
 - [range changes in British birds 🐦](https://github.com/cjabradshaw/BritishBirdsRangeChange)
 - [population model for Tasmanian devils](https://github.com/cjabradshaw/devilpopmodel)
-- [offtake effects on banteng (_Bos javanicus_)](https://github.com/cjabradshaw/bantengharvest)
 - [density-independent processes decouple component and ensemble density feedbacks](https://github.com/cjabradshaw/DensityFeedbackSims)
 
 ### _Invasive species_
 - [estimating the cost 💶 of invasive species to Australia 🇦🇺](https://github.com/cjabradshaw/InvasiveSppCostsAustralia)
 - <code>InvaCost</code> <em>R</em> package: [global costs 💶 of biological invasions](https://github.com/cjabradshaw/invacost)
 - [correlating life history with status (threatened/invasive) of legumes 🌱](https://github.com/cjabradshaw/legumeStatus)
-- [offtake effects on banteng (_Bos javanicus_)](https://github.com/cjabradshaw/bantengharvest)
+- - [effect of different culling regimes on feral pig 🐖 populations on Kangaroo Island](https://github.com/cjabradshaw/KIpigCull)
+- [ecological-economic models of sustainable harvest for banteng <em>Bos javanicus</em> in northern Australia](https://github.com/cjabradshaw/bantengharvest)
+- [stochastic models for predicting feral cat 🐈 eradication and costs on large islands](https://github.com/cjabradshaw/FeralCatEradication)
 
 ### _Sharks_
 - [deterrent trials for devices used to reduce the incidence of white shark (_Carcharodon carcharias_) attacks](https://github.com/cjabradshaw/whitesharkdeterrents)
