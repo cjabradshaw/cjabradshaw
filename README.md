@@ -37,7 +37,7 @@ I am the <a href="http://www.flinders.edu.au/people/corey.bradshaw">Matthew Flin
 - [estimating the cost 💶 of invasive species to Australia 🇦🇺](https://github.com/cjabradshaw/InvasiveSppCostsAustralia)
 - <code>InvaCost</code> <em>R</em> package: [global costs 💶 of biological invasions](https://github.com/cjabradshaw/invacost)
 - [correlating life history with status (threatened/invasive) of legumes 🌱](https://github.com/cjabradshaw/legumeStatus)
-- - [effect of different culling regimes on feral pig 🐖 populations on Kangaroo Island](https://github.com/cjabradshaw/KIpigCull)
+- [effect of different culling regimes on feral pig 🐖 populations on Kangaroo Island](https://github.com/cjabradshaw/KIpigCull)
 - [ecological-economic models of sustainable harvest for banteng <em>Bos javanicus</em> in northern Australia](https://github.com/cjabradshaw/bantengharvest)
 - [stochastic models for predicting feral cat 🐈 eradication and costs on large islands](https://github.com/cjabradshaw/FeralCatEradication)
 
