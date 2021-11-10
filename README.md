@@ -72,6 +72,9 @@ I am the <a href="http://www.flinders.edu.au/people/corey.bradshaw">Matthew Flin
 ### _Correlates of extinction_
 - [correlating life history with status (threatened/invasive) of legumes 🌱](https://github.com/cjabradshaw/legumeStatus)
 
+### Instruction
+- learning/upskilling R
+
 ### _Other_
 - [my papers sorted by Altmetric score (only the top-scoring papers included)](https://cjabradshaw.github.io/AltmetricBradshaw/)
 - [100 papers 📖 every ecologist should read](https://github.com/cjabradshaw/HIPE)
