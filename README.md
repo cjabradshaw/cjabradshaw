@@ -28,10 +28,10 @@ I am the <a href="http://www.flinders.edu.au/people/corey.bradshaw">Matthew Flin
 ### _Animal population dynamics_
 - [stochastic demographic models for Sahul megafauna species](https://github.com/cjabradshaw/MegafaunaSusceptibility) (see also individual models for some extant species included for comparison: [red kangaroo 🦘](https://github.com/cjabradshaw/KangarooPopModel), [short-beaked echidna](https://github.com/cjabradshaw/EchidnaPopModel), [emu](https://github.com/cjabradshaw/EmuPopModel), [spotted-tail quoll](https://github.com/cjabradshaw/SpottedTailQuollModel), [common wombat](https://github.com/cjabradshaw/WombatPopModel), [brush turkey](https://github.com/cjabradshaw/BrushTurkeyPopModel))
 - [spatio-temporal models of megafauna extirpation in Sahul](https://github.com/cjabradshaw/SEOZ_megafauna_extirpation)
-- [whaler shark (_Carcharhinus brachyurus_) sustainable harvest model](https://github.com/cjabradshaw/WhalerSharkModel)
+- [whaler shark (_Carcharhinus brachyurus_) sustainable harvest 🎣 model](https://github.com/cjabradshaw/WhalerSharkModel)
 - [range changes in British birds 🐦](https://github.com/cjabradshaw/BritishBirdsRangeChange)
 - [population model for Tasmanian devils](https://github.com/cjabradshaw/devilpopmodel)
-- [density-independent processes decouple component and ensemble density feedbacks](https://github.com/cjabradshaw/DensityFeedbackSims)
+- [density-independent processes decouple component and ensemble density feedbacks 📉](https://github.com/cjabradshaw/DensityFeedbackSims)
 
 ### _Invasive species_
 - [estimating the cost 💶 of invasive species to Australia 🇦🇺](https://github.com/cjabradshaw/InvasiveSppCostsAustralia)
@@ -44,8 +44,8 @@ I am the <a href="http://www.flinders.edu.au/people/corey.bradshaw">Matthew Flin
 ### _Sharks_
 - [deterrent ⚡ trials for devices used to reduce the incidence of white shark (_Carcharodon carcharias_) attacks](https://github.com/cjabradshaw/whitesharkdeterrents)
 - [predicting shark bites in Australia](https://github.com/cjabradshaw/sharkbite)
-- [whaler shark (_Carcharhinus brachyurus_) sustainable harvest model](https://github.com/cjabradshaw/WhalerSharkModel)
-- [Australian Shark-Incident Database](https://github.com/cjabradshaw/AustralianSharkIncidentDatabase) (ASID)
+- [whaler shark (_Carcharhinus brachyurus_) sustainable harvest 🎣 model](https://github.com/cjabradshaw/WhalerSharkModel)
+- [Australian Shark-Incident Database 💻](https://github.com/cjabradshaw/AustralianSharkIncidentDatabase) (ASID)
 
 ### _Human population dynamics & movement_
 - [cellular-automaton model of human spread across Sahul 🚶‍♀️](https://github.com/cjabradshaw/SahulHumanSpread)
@@ -55,14 +55,14 @@ I am the <a href="http://www.flinders.edu.au/people/corey.bradshaw">Matthew Flin
 - [correlates of human fertility among low- and middle-income nations 👶](https://github.com/cjabradshaw/humanfertility)
 
 ### _Environmental change_
-- [relationships between environmental degradation and socio-economic variables among African 🌍 nations](https://github.com/cjabradshaw/EnvironRankAfrica)
+- [relationships between environmental 🥬 degradation and socio-economic variables among African 🌍 nations](https://github.com/cjabradshaw/EnvironRankAfrica)
 - [relationship between flooding 🌧️ and deforestation 🌳](https://github.com/cjabradshaw/forestsfloods)
 - [temporal shifts in intervals between extreme total annual rainfall ⛈️](https://github.com/cjabradshaw/precipExtremes)
 
 ### _Ecological networks_
 - [global co-extinction projections under climate 🌤️ and land-use 🏙️ changes](https://github.com/cjabradshaw/global_coextinctions)
-- [palaeo-ecological networks for estimating trophic cascades of the Naracoorte community](https://github.com/cjabradshaw/Inferring-networks-and-modelling-trophic-cascades)
-- [planetary annihilation co-extinctions simulation 🖥️](https://github.com/cjabradshaw/co-extinctions)
+- [palaeo-ecological networks 🔗 for estimating trophic cascades of the Naracoorte community](https://github.com/cjabradshaw/Inferring-networks-and-modelling-trophic-cascades)
+- [planetary 🌐 annihilation co-extinctions simulation 🖥️](https://github.com/cjabradshaw/co-extinctions)
 
 ### _Health & disease_
 - [socio-economic and environmental 🚰 determinants of child-health 🧒 outcomes among African nations](https://github.com/cjabradshaw/AfricaChildHealth)
@@ -79,7 +79,7 @@ I am the <a href="http://www.flinders.edu.au/people/corey.bradshaw">Matthew Flin
 
 ### _Other_
 - [my papers sorted by Altmetric score (only the top-scoring papers included)](https://cjabradshaw.github.io/AltmetricBradshaw/)
-- [100 papers 📖 every ecologist should read](https://github.com/cjabradshaw/HIPE)
+- [100 💯 papers 📖 every ecologist should read](https://github.com/cjabradshaw/HIPE)
 - [gun deaths 💀 ~ gun 🔫 ownership analysis](https://github.com/cjabradshaw/guns)
 
 <br>
