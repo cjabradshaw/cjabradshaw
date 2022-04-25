@@ -53,6 +53,7 @@ I am the <a href="http://www.flinders.edu.au/people/corey.bradshaw">Matthew Flin
 - [projecting the Australian human population and its greenhouse-gas emissions 🏭 into the future 👨‍👩‍👧‍👧](https://github.com/cjabradshaw/AusHumanProjection)
 - [matrix projection models for the global human population 👨‍👩‍👧‍👧](https://github.com/cjabradshaw/globalhumanmodel)
 - [correlates of human fertility among low- and middle-income nations 👶](https://github.com/cjabradshaw/humanfertility)
+- [human expansion models ex-Africa 🚶‍♂️](https://github.com/cjabradshaw/HumanGlobalExpansion)
 
 ### _Environmental change_
 - [relationships between environmental 🥬 degradation and socio-economic variables among African 🌍 nations](https://github.com/cjabradshaw/EnvironRankAfrica)
