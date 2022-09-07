@@ -66,7 +66,7 @@ I am the <a href="http://www.flinders.edu.au/people/corey.bradshaw">Matthew Flin
 ### _Ecological networks_
 - [global co-extinction projections under climate 🌤️ and land-use 🏙️ changes](https://github.com/cjabradshaw/global_coextinctions)
 - [palaeo-ecological networks 🔗 for estimating trophic cascades of the Naracoorte community](https://github.com/cjabradshaw/Inferring-networks-and-modelling-trophic-cascades)
-- [Predicting predator-prey interactions in terrestrial endotherms using random forest](https://github.com/cjabradshaw/random-forests-for-predicting-predator-prey-interactions-in-terrestrial-vertebrates)
+- [predicting predator-prey interactions in terrestrial endotherms using random forest 🌲🌳](https://github.com/cjabradshaw/random-forests-for-predicting-predator-prey-interactions-in-terrestrial-vertebrates)
 - [planetary 🌐 annihilation co-extinctions simulation 🖥️](https://github.com/cjabradshaw/co-extinctions)
 
 ### _Health & disease_
