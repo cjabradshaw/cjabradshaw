@@ -43,7 +43,7 @@ I am the <a href="http://www.flinders.edu.au/people/corey.bradshaw">Matthew Flin
 - [stochastic models for predicting feral cat 🐈 eradication and costs on large islands](https://github.com/cjabradshaw/FeralCatEradication)
 
 ### _Sharks_
-- [stochastic energetics :fried_shrimp: model for whale sharks provided food at an eco-tourism site](https://github.com/cjabradshaw/WhaleSharkEnergeticsModel)
+- [stochastic energetics model for whale sharks provided food :fried_shrimp: at an eco-tourism site](https://github.com/cjabradshaw/WhaleSharkEnergeticsModel)
 - [long-range electric ⚡ deterrent trials for reducing risk of white shark (_Carcharodon carcharias_) bites](https://github.com/cjabradshaw/Long-range-electric-deterrents-testing)
 - [deterrent ⚡ trials for devices used to reduce the incidence of white shark bites](https://github.com/cjabradshaw/whitesharkdeterrents)
 - [predicting shark bites in Australia](https://github.com/cjabradshaw/sharkbite)
