@@ -53,7 +53,7 @@ I am the <a href="http://www.flinders.edu.au/people/corey.bradshaw">Matthew Flin
 - [Australian Shark-Incident Database 💻](https://github.com/cjabradshaw/AustralianSharkIncidentDatabase) (ASID)
 
 ### _Human population dynamics & movement_
-- [human population growth rates 📈 for Sahul](https://github.com/cjabradshaw/ArchDatesPopGrowth): recalculates Sahul-wide human population growth from 40-5 ka using a resampling approach 
+- [resampled human population growth rates 📈 for Sahul from 40-5 ka](https://github.com/cjabradshaw/ArchDatesPopGrowth) 
 - [projections of human populations in Sahul through the Late Pleistocene-early Holocene🚶‍](https://github.com/cjabradshaw/SahulLGMhuman)
 - [‘superhighways’ of human movement in Sahul combined with a demographic cellular automaton 🚶‍](https://github.com/cjabradshaw/SuperhighwaysSpreadModel)
 - [cellular-automaton model of human spread across Sahul 🚶‍♀️](https://github.com/cjabradshaw/SahulHumanSpread)
