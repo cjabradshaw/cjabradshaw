@@ -36,9 +36,9 @@ I am the <a href="http://www.flinders.edu.au/people/corey.bradshaw">Matthew Flin
 - [stochastic hydroecological metapopulation model for :frog: <em>Litoria raniformis</em>](https://github.com/cjabradshaw/Lraniformis-Metapopulation-model)
 
 ### _Invasive species_
-- [InvaCost damage:management cost ratio](https://github.com/cjabradshaw/InvaCostDamMgmRatio)
+- [<em>InvaCost</em> damage:management cost ratio](https://github.com/cjabradshaw/InvaCostDamMgmRatio)
 - [estimating the cost 💶 of invasive species to Australia 🇦🇺](https://github.com/cjabradshaw/InvasiveSppCostsAustralia)
-- <code>InvaCost</code> <em>R</em> package: [global costs 💶 of biological invasions](https://github.com/cjabradshaw/invacost)
+- <code>invacost</code> <em>R</em> package: [global costs 💶 of biological invasions](https://github.com/cjabradshaw/invacost)
 - [correlating life history with status (threatened/invasive) of legumes 🌱](https://github.com/cjabradshaw/legumeStatus)
 - [effect of different culling regimes on feral pig 🐖 populations on Kangaroo Island (not age-structured)](https://github.com/cjabradshaw/KIpigCull)
 - [age-structured models for efficient and cost-effective eradiction of pigs 🐖 from Kangaroo Island](https://github.com/cjabradshaw/KIPigEradication)
