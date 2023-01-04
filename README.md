@@ -3,9 +3,8 @@
 <a rel="me" href="https://mastodon.world/@conservbytes"></a>
 -->
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/cjabradshaw?label=%40cjabradshaw&style=social"> <img alt="Mastodon follow" src="https://img.shields.io/mastodon/follow/109352803243801893?color=%2343018f&domain=https%3A%2F%2Fmastodon.world&label=%40ConservBytes&logo=Mastodon&logoColor=%2343018f&style=social"> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/conservbytes?label=%40ConservBytes&style=social"> [![Linkedin](https://img.shields.io/badge/-Linkedin-blue.svg?style=social&logo=linkedin&logoColor=blue&colorB=0E55DA&labelColor=210EDA)](https://www.linkedin.com/in/cjabradshaw/)
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/cjabradshaw?label=%40cjabradshaw&style=social"> <img alt="Mastodon follow" src="https://img.shields.io/mastodon/follow/109352803243801893?color=%2343018f&domain=https%3A%2F%2Fmastodon.world&label=%40ConservBytes&logo=Mastodon&logoColor=%2343018f&style=social"> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/conservbytes?label=%40ConservBytes&style=social"> [![Linkedin](https://img.shields.io/badge/-Linkedin-blue.svg?style=social&logo=linkedin&logoColor=blue&colorB=0E55DA&labelColor=210EDA)](https://www.linkedin.com/in/cjabradshaw/) [![Facebook](https://img.shields.io/badge/-Facebook-blue.svg?style=social&logo=facebook&logoColor=blue&colorB=0E55DA&labelColor=210EDA)](https://www.facebook.com/conservbytes)
 
-[![Facebook](https://img.shields.io/badge/-Facebook-blue.svg?style=flat-square&logo=facebook&logoColor=white&colorB=0E55DA&labelColor=210EDA)](https://www.facebook.com/conservbytes)
 [![Instagram](https://img.shields.io/badge/-Instagram-red.svg?style=flat-square&logo=instagram&logoColor=white&colorB=C41230&labelColor=BA22F7)](https://www.instagram.com/cjabradshaw/)
 
 [![Research Gate](https://img.shields.io/badge/-Research%20Gate-green.svg?style=flat-square&logo=researchgate&logoColor=white&colorB=616161&labelColor=00BFA5)](https://www.researchgate.net/profile/Corey-Bradshaw)
