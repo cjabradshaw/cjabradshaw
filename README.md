@@ -3,8 +3,8 @@
 <a rel="me" href="https://mastodon.world/@conservbytes"></a>
 -->
 
-[![GitHub followers](https://img.shields.io/github/followers/cjabradshaw?label=Follow&style=flat-square&logo=github&logoColor=white&colorB=0C0504)](https://github.com/login?return_to=%2Fcjabradshaw)
-<img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109352803243801893?color=%2343018f&domain=https%3A%2F%2Fmastodon.world&label=%40ConservBytes&logo=Mastodon&logoColor=%2343018f&style=social">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/cjabradshaw?label=%40cjabradshaw&style=social">
+<img alt="Mastodon follow" src="https://img.shields.io/mastodon/follow/109352803243801893?color=%2343018f&domain=https%3A%2F%2Fmastodon.world&label=%40ConservBytes&logo=Mastodon&logoColor=%2343018f&style=social">
 [![Twitter follow](https://img.shields.io/twitter/follow/conservbytes?label=%20%40ConservBytes&style=flat-square&labelColor=2E7DEF&logo=twitter&logoColor=white&colorB=0D47A1)](https://twitter.com/conservbytes)
 [![Facebook](https://img.shields.io/badge/-Facebook-blue.svg?style=flat-square&logo=facebook&logoColor=white&colorB=0E55DA&labelColor=210EDA)](https://www.facebook.com/conservbytes)
 [![Instagram](https://img.shields.io/badge/-Instagram-red.svg?style=flat-square&logo=instagram&logoColor=white&colorB=C41230&labelColor=BA22F7)](https://www.instagram.com/cjabradshaw/)
