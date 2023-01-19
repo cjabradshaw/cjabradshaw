@@ -60,6 +60,7 @@ I am the <a href="http://www.flinders.edu.au/people/corey.bradshaw">Matthew Flin
 - [human expansion models ex-Africa 🚶‍♂️](https://github.com/cjabradshaw/HumanGlobalExpansion)
 
 ### _Environmental change_
+- [natural to anthropogenic shift in fire 🔥 regime in Late Pleistocene Sahul](https://github.com/cjabradshaw/FireRegimeShift)
 - [relationships between environmental 🥬 degradation and socio-economic variables among African 🌍 nations](https://github.com/cjabradshaw/EnvironRankAfrica)
 - [relationship between flooding 🌧️ and deforestation 🌳](https://github.com/cjabradshaw/forestsfloods)
 - [temporal shifts in intervals between extreme total annual rainfall ⛈️](https://github.com/cjabradshaw/precipExtremes)
