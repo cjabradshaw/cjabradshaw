@@ -30,6 +30,7 @@ I am the <a href="http://www.flinders.edu.au/people/corey.bradshaw">Matthew Flin
 
 ### _Invasive species_
 - [<em>InvaCost</em> damage:management cost ratio](https://github.com/cjabradshaw/InvaCostDamMgmRatio)
+- [temporal trends in <InvaCost> 💶 data](https://github.com/cjabradshaw/InvaCostVersionTrends)
 - [testing variation in time from initiation of pursuit to death for feral fallow deer (<em>Dama dama</em>) in South Australia](https://github.com/cjabradshaw/deerCullShotgun)
 - [estimating the cost 💶 of invasive species to Australia 🇦🇺](https://github.com/cjabradshaw/InvasiveSppCostsAustralia)
 - <code>invacost</code> <em>R</em> package: [global costs 💶 of biological invasions](https://github.com/cjabradshaw/invacost)
@@ -64,6 +65,7 @@ I am the <a href="http://www.flinders.edu.au/people/corey.bradshaw">Matthew Flin
 - [relationships between environmental 🥬 degradation and socio-economic variables among African 🌍 nations](https://github.com/cjabradshaw/EnvironRankAfrica)
 - [relationship between flooding 🌧️ and deforestation 🌳](https://github.com/cjabradshaw/forestsfloods)
 - [temporal shifts in intervals between extreme total annual rainfall ⛈️](https://github.com/cjabradshaw/precipExtremes)
+- [testing evidence for savanna corridors 🌿 🌳 in Southeast Asia since the Last Glacial Maximum 🧊](https://github.com/cjabradshaw/SavannaCorridors)
 
 ### _Ecological networks_
 - [global co-extinction projections under climate 🌤️ and land-use 🏙️ changes](https://github.com/cjabradshaw/global_coextinctions)
@@ -72,8 +74,12 @@ I am the <a href="http://www.flinders.edu.au/people/corey.bradshaw">Matthew Flin
 - [predicting predator-prey interactions in terrestrial endotherms using random forest 🌲🌳](https://github.com/cjabradshaw/random-forests-for-predicting-predator-prey-interactions-in-terrestrial-vertebrates)
 - [planetary 🌐 annihilation co-extinctions simulation 🖥️](https://github.com/cjabradshaw/co-extinctions)
 
+### _Evolution_
+- [coelacanth evolution 🐟](https://github.com/cjabradshaw/CoelacanthEvolution)
+
 ### _Health & disease_
 - [socio-economic and environmental 🚰 determinants of child-health 🧒 outcomes among African nations](https://github.com/cjabradshaw/AfricaChildHealth)
+- [relationships between climate 🌞🌧️ and child health 👶 in Australia 🇦🇺](https://github.com/cjabradshaw/AusChildHlthClim)
 - [estimating effects of temporal ⏲️ distancing to reduce infection ⚕️ risk](https://github.com/cjabradshaw/COVID19distancing)
 - [predicting the interaction between diseases 🦠 for European rabbits 🐇 to maximise biological control](https://github.com/cjabradshaw/rabbitdisease)
 - [population model for Tasmanian devils](https://github.com/cjabradshaw/devilpopmodel)
