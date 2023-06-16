@@ -30,7 +30,7 @@ I am the <a href="http://www.flinders.edu.au/people/corey.bradshaw">Matthew Flin
 
 ### _Invasive species_
 - [<em>InvaCost</em> damage:management cost ratio](https://github.com/cjabradshaw/InvaCostDamMgmRatio)
-- [temporal trends in <InvaCost> 💶 data](https://github.com/cjabradshaw/InvaCostVersionTrends)
+- [temporal trends in <em>InvaCost</em> 💶 data](https://github.com/cjabradshaw/InvaCostVersionTrends)
 - [testing variation in time from initiation of pursuit to death for feral fallow deer (<em>Dama dama</em>) in South Australia](https://github.com/cjabradshaw/deerCullShotgun)
 - [estimating the cost 💶 of invasive species to Australia 🇦🇺](https://github.com/cjabradshaw/InvasiveSppCostsAustralia)
 - <code>invacost</code> <em>R</em> package: [global costs 💶 of biological invasions](https://github.com/cjabradshaw/invacost)
