@@ -50,6 +50,7 @@ I am the <a href="http://www.flinders.edu.au/people/corey.bradshaw">Matthew Flin
 - [Australian Shark-Incident Database 💻](https://github.com/cjabradshaw/AustralianSharkIncidentDatabase) (ASID)
 
 ### _Human population dynamics & movement_
+- [global human population 🫂 switch from self-facilitation](https://github.com/cjabradshaw/globalHumanPopSwitch)
 - [projections of human populations in Cyprus 🇨🇾 during the Late Pleistocene🚶‍](https://github.com/cjabradshaw/CyprusHumanPleistocene)
 - [resampled human population growth rates 📈 for Sahul from 40-5 ka](https://github.com/cjabradshaw/ArchDatesPopGrowth) 
 - [projections of human populations in Sahul through the Late Pleistocene-early Holocene🚶‍](https://github.com/cjabradshaw/SahulLGMhuman)
@@ -62,6 +63,7 @@ I am the <a href="http://www.flinders.edu.au/people/corey.bradshaw">Matthew Flin
 - [human expansion models ex-Africa 🚶‍♂️](https://github.com/cjabradshaw/HumanGlobalExpansion)
 
 ### _Environmental change_
+- [intensification of Indo-Australian monsoon 🌧️](https://github.com/cjabradshaw/IndoAustralianMonsoon)
 - [natural to anthropogenic shift in fire 🔥 regime in Late Pleistocene Sahul](https://github.com/cjabradshaw/FireRegimeShift)
 - [relationships between environmental 🥬 degradation and socio-economic variables among African 🌍 nations](https://github.com/cjabradshaw/EnvironRankAfrica)
 - [relationship between flooding 🌧️ and deforestation 🌳](https://github.com/cjabradshaw/forestsfloods)
@@ -77,6 +79,9 @@ I am the <a href="http://www.flinders.edu.au/people/corey.bradshaw">Matthew Flin
 
 ### _Evolution_
 - [coelacanth evolution 🐟](https://github.com/cjabradshaw/CoelacanthEvolution)
+
+### _Genetic rescue_
+- [demo-genetic models for simulating genetic 🧬 rescue ⛑️](https://github.com/cjabradshaw/demo-genetic)
 
 ### _Health & disease_
 - [socio-economic and environmental 🚰 determinants of child-health 🧒 outcomes among African nations](https://github.com/cjabradshaw/AfricaChildHealth)
