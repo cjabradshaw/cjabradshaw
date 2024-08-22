@@ -9,7 +9,7 @@ I am the <a href="http://www.flinders.edu.au/people/corey.bradshaw">Matthew Flin
 
 [<img src="www/CIEHF_Logo_Email_Version Transparent.png" alt="ARC Centre of Excellence for Indigenous and Environmental Histories and Futures" width="180" align="right" />](http://cief.au)
 [<img src="www/CabahFCP.jpg" alt="ARC Centre of Excellence for Australian Biodiversity and Heritage" width="100" align="right" />](http://EpicAustralia.org.au)
-[<img src="www/Flinders_University_Logo_Stacked_RGB_Stroked.png" alt="Flinders University" width="150" align="right" />](http://www.flinders.edu.au)
+[<img src="www/Flinders_University_Logo_Stacked_RGB_Master.png" alt="Flinders University" width="150" align="right" />](http://www.flinders.edu.au)
 [<img src="www/GEL Logo Kaurna New Transp.png" alt="Global Ecology Laboratory" width="150" align="right" />](http://GlobalEcologyFlinders.com)
 
 ## ✨Highlighted✨ repositories
