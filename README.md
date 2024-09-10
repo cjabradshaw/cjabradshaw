@@ -82,7 +82,7 @@ I am the <a href="http://www.flinders.edu.au/people/corey.bradshaw">Matthew Flin
 
 ### _Evolution_
 - [coelacanth evolution 🐟](https://github.com/cjabradshaw/CoelacanthEvolution)
-- [trait-space disparity between Devonian and modern fish assemblages](https://github.com/cjabradshaw/Trait-space-disparity)
+- [trait-space disparity between Devonian and modern fish 🐟 assemblages](https://github.com/cjabradshaw/Trait-space-disparity)
 
 ### _Genetic rescue_
 - [demo-genetic models for simulating genetic 🧬 rescue ⛑️](https://github.com/cjabradshaw/demo-genetic)
