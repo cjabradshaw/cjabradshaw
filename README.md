@@ -28,6 +28,7 @@ I am the <a href="http://www.flinders.edu.au/people/corey.bradshaw">Matthew Flin
 - [density-independent processes decouple component and ensemble density feedbacks 📉](https://github.com/cjabradshaw/DensityFeedbackSims)
 - [stochastic population model for :frog: <em>Litoria raniformis</em>](https://github.com/cjabradshaw/RiverRegulation_Frog_PopModel)
 - [stochastic hydroecological metapopulation model for :frog: <em>Litoria raniformis</em>](https://github.com/cjabradshaw/Lraniformis-Metapopulation-model)
+- [sustainable harvest of saltwater crocodiles in the Northern Territory of Australia](https://github.com/cjabradshaw/crocharvest)
 
 ### _Invasive species_
 - [<em>InvaCost</em> damage:management cost 💶 ratio](https://github.com/cjabradshaw/InvaCostDamMgmRatio)
