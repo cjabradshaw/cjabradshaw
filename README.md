@@ -21,6 +21,7 @@ I am the <a href="http://www.flinders.edu.au/people/corey.bradshaw">Matthew Flin
 
 ### _Animal population dynamics_
 - [stochastic demographic models for Sahul megafauna species](https://github.com/cjabradshaw/MegafaunaSusceptibility) (see also individual models for some extant species included for comparison: [red kangaroo 🦘](https://github.com/cjabradshaw/KangarooPopModel), [short-beaked echidna](https://github.com/cjabradshaw/EchidnaPopModel), [emu](https://github.com/cjabradshaw/EmuPopModel), [spotted-tail quoll](https://github.com/cjabradshaw/SpottedTailQuollModel), [common wombat](https://github.com/cjabradshaw/WombatPopModel), [brush turkey](https://github.com/cjabradshaw/BrushTurkeyPopModel))
+- [demographic models predicting the effect of human hunting on now-extinct dwarf hippopotamus 🦛 and dwarf elephant 🐘 in Cyprus 🇨🇾](https://github.com/cjabradshaw/CyprusHippoElephant)
 - [spatio-temporal models of megafauna extirpation in Sahul](https://github.com/cjabradshaw/SEOZ_megafauna_extirpation)
 - [whaler shark (_Carcharhinus brachyurus_) sustainable harvest 🎣 model](https://github.com/cjabradshaw/WhalerSharkModel)
 - [range changes in British birds 🐦](https://github.com/cjabradshaw/BritishBirdsRangeChange)
