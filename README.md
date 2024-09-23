@@ -16,7 +16,6 @@ I am the <a href="http://www.flinders.edu.au/people/corey.bradshaw">Matthew Flin
 ### _<a href="https://www.shinyapps.io">R Shiny</a> apps_
 - project an age-classified population stochastically — app: [LeslieMatrixShiny](https://cjabradshaw.shinyapps.io/LeslieMatrixShiny/); <a href="https://github.com/cjabradshaw/LeslieMatrixShiny"><em>R</em> code</a>
 - ranking researchers fairly by citation performance (the '_ε_-index') — app: [EpsilonIndexShiny](https://cjabradshaw.shinyapps.io/epsilonIndex/); <a href="https://github.com/cjabradshaw/EpsilonIndexShiny"><em>R</em> code</a>
-- fetching and analysing [Altmetric](https://www.altmetric.com/about-altmetrics/what-are-altmetrics/) data for a submitted set of article [digital object identifiers](https://www.doi.org/) (doi) — app: [AltmetricShiny](https://cjabradshaw.shinyapps.io/AltmetricShiny/); <a href="https://github.com/cjabradshaw/AltmetricShiny"><em>R</em> code</a>
 - ranking journals using multiple citation indices — app: [JournalRankShiny](https://cjabradshaw.shinyapps.io/JournalRankShiny/); <a href="https://github.com/cjabradshaw/JournalRankShiny"><em>R</em> code</a>
 
 ### _Animal population dynamics_
