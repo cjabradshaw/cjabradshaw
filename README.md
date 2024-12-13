@@ -105,8 +105,8 @@ I am the <a href="http://www.flinders.edu.au/people/corey.bradshaw">Matthew Flin
 - [create a DOI for your data/code 💻](https://github.com/CABAH/assignDOI)
 
 ### _Other_
-- [anemometer function](https://github.com/cjabradshaw/Anemometer): a handy function to create a simple anemometer 🌬️ plot for anywhere in the world in R
-- [Roman-numeral date & clock](https://github.com/cjabradshaw/RomanClockCalendar): R code to produce a simple date 📆 (Gregorian & Roman calendar in Latin) and clock 🕙 plot in Roman numerals. Works on a 24-hour system
+- [anemometer 🌪️ function](https://github.com/cjabradshaw/Anemometer): a handy function to create a simple anemometer 🌬️ plot for anywhere in the world in R
+- [Roman-numeral date 📆 & clock 🕒 ](https://github.com/cjabradshaw/RomanClockCalendar): R code to produce a simple date 📆 (Gregorian & Roman calendar in Latin) and clock 🕙 plot in Roman numerals. Works on a 24-hour system
 - [my papers sorted by Altmetric score (only the top-scoring papers included)](https://cjabradshaw.github.io/AltmetricBradshaw/)
 - [💯 papers 📖 every ecologist should read](https://github.com/cjabradshaw/HIPE)
 - [gun deaths 💀 ~ gun 🔫 ownership analysis](https://github.com/cjabradshaw/guns)
