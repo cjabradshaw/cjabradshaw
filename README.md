@@ -31,14 +31,14 @@ I am the <a href="http://www.flinders.edu.au/people/corey.bradshaw">Matthew Flin
 - [sustainable harvest of saltwater crocodiles 🐊 in the Northern Territory of Australia](https://github.com/cjabradshaw/crocharvest)
 
 ### _Invasive species_
-- [modelling eradication of feral pigs 🐷 on Kangaroo Island 🇦🇺](https://github.com/cjabradshaw/KIPigEradication)
+- [modelling eradication of feral pigs 🐗 on Kangaroo Island 🇦🇺](https://github.com/cjabradshaw/KIPigEradication)
 - [<em>InvaCost</em> damage:management cost 💶 ratio](https://github.com/cjabradshaw/InvaCostDamMgmRatio)
 - [temporal trends in <em>InvaCost</em> 💶 data](https://github.com/cjabradshaw/InvaCostVersionTrends)
 - [testing variation in time from initiation of pursuit to death for feral fallow deer 🦌 (<em>Dama dama</em>) in South Australia](https://github.com/cjabradshaw/deerCullShotgun)
 - [estimating the cost 💶 of invasive species to Australia 🇦🇺](https://github.com/cjabradshaw/InvasiveSppCostsAustralia)
 - <code>invacost</code> <em>R</em> package: [global costs 💶 of biological invasions](https://github.com/cjabradshaw/invacost)
 - [correlating life history with status (threatened/invasive) of legumes 🌱](https://github.com/cjabradshaw/legumeStatus)
-- [effect of different culling regimes on feral pig 🐖 populations on Kangaroo Island (not age-structured)](https://github.com/cjabradshaw/KIpigCull)
+- [effect of different culling regimes on feral pig 🐗 populations on Kangaroo Island (not age-structured)](https://github.com/cjabradshaw/KIpigCull)
 - [age-structured models for efficient and cost-effective eradiction of pigs 🐖 from Kangaroo Island](https://github.com/cjabradshaw/KIPigEradication)
 - [ecological-economic models of sustainable harvest for banteng <em>Bos javanicus</em> in northern Australia](https://github.com/cjabradshaw/bantengharvest)
 - [stochastic models for predicting feral cat 🐈 eradication and costs on large islands](https://github.com/cjabradshaw/FeralCatEradication)
