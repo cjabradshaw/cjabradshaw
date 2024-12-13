@@ -88,6 +88,7 @@ I am the <a href="http://www.flinders.edu.au/people/corey.bradshaw">Matthew Flin
 - [demo-genetic models for simulating genetic 🧬 rescue ⛑️](https://github.com/cjabradshaw/demo-genetic)
 
 ### _Health & disease_
+- [climate effects on incidence of low birth 👶 weight in Pakistan🇵🇰](https://github.com/cjabradshaw/LBW_)
 - [predictors of diarrhoea 💩 in children 🧒 under five years old](https://github.com/cjabradshaw/childDiarr)
 - [socio-economic and environmental 🚰 determinants of child-health 🧒 outcomes among African nations](https://github.com/cjabradshaw/AfricaChildHealth)
 - [relationships between climate 🌞🌧️ and child health 👶 in Australia 🇦🇺](https://github.com/cjabradshaw/AusChildHlthClim)
