@@ -9,7 +9,7 @@
 [<img src="www/CIEHF_Logo_Email_Version Transparent.png" alt="ARC Centre of Excellence for Indigenous and Environmental Histories and Futures" width="180" align="right" />](http://cief.au)
 [<img src="www/GEL Logo Kaurna New Transp.png" alt="Global Ecology Laboratory" width="160" align="right" />](http://GlobalEcologyFlinders.com)
 [<img src="www/Flinders_University_Logo_Stacked_RGB_Master.png" alt="Flinders University" width="90" align="right" />](http://www.flinders.edu.au)
-I am the <a href="http://www.flinders.edu.au/people/corey.bradshaw">Matthew Flinders Professor of Global Ecology</a> and Director of the <a href="https://globalecologyflinders.com/">Global Ecology Laboratory</a> at <a href="http://www.flinders.edu.au">Flinders University</a> in <a href="https://www.google.com.au/maps/place/Adelaide+SA/@-35.0004451,138.3309765,10z/data=!3m1!4b1!4m5!3m4!1s0x6ab735c7c526b33f:0x4033654628ec640!8m2!3d-34.9284989!4d138.6007456">Adelaide</a>, South Australia. I am the Modelling Node Leader in the <a href="http://www.arc.gov.au">Australian Research Council</a> <a href="http://EpicAustralia.org.au">Centre of Excellence for Australian Biodiversity and Heritage</a>, and a lead CI in the <a href="http://ciehf.au">ARC Centre of Excellence for Indigenous and Environmental Histories and Futures</a>. I am a mathematical ecologist specialising in biodiversity conservation and sustainability research. I use mathematics to bind disparate disciplines in the sciences and humanities to reveal and predict the behaviour of complex ecosystems. My goal is to limit the damage to the biosphere caused by human endeavour so that future generations can maximise health, wealth, and wellbeing (see also <a href="https://conservationbytes.com/corey-j-a-bradshaw/cv/">my CV here</a>).
+I am the <a href="http://www.flinders.edu.au/people/corey.bradshaw">Matthew Flinders Professor of Global Ecology</a> and Director of the <a href="https://globalecologyflinders.com/">Global Ecology Laboratory</a> at <a href="http://www.flinders.edu.au">Flinders University</a> in <a href="https://www.google.com.au/maps/place/Adelaide+SA/@-35.0004451,138.3309765,10z/data=!3m1!4b1!4m5!3m4!1s0x6ab735c7c526b33f:0x4033654628ec640!8m2!3d-34.9284989!4d138.6007456">Adelaide</a>, South Australia. I am a lead CI in the <a href="http://ciehf.au">ARC Centre of Excellence for Indigenous and Environmental Histories and Futures</a> and the Modelling Node Leader in the <a href="http://www.arc.gov.au">Australian Research Council</a> <a href="http://EpicAustralia.org.au">Centre of Excellence for Australian Biodiversity and Heritage</a>. I am a mathematical ecologist specialising in biodiversity conservation and sustainability research. I use mathematics to bind disparate disciplines in the sciences and humanities to reveal and predict the behaviour of complex ecosystems. My goal is to limit the damage to the biosphere caused by human endeavour so that future generations can maximise health, wealth, and wellbeing (see also <a href="https://conservationbytes.com/corey-j-a-bradshaw/cv/">my CV here</a>).
 
 ## ✨Highlighted✨ repositories
 ### _<a href="https://www.shinyapps.io">R Shiny</a> apps_
@@ -75,11 +75,11 @@ I am the <a href="http://www.flinders.edu.au/people/corey.bradshaw">Matthew Flin
 - [testing evidence for savanna corridors 🌿 🌳 in Southeast Asia since the Last Glacial Maximum 🧊](https://github.com/cjabradshaw/SavannaCorridors)
 
 ### _Ecological networks_
-- [global co-extinction projections under climate 🌤️ and land-use 🏙️ changes](https://github.com/cjabradshaw/global_coextinctions)
-- [global sensitivity analysis for climate/land-use change co-extinctions projections](https://github.com/cjabradshaw/CCcoextGSA)
+- [global co-extinction 🦤 projections under climate 🌤️ and land-use 🏙️ changes](https://github.com/cjabradshaw/global_coextinctions)
+- [global sensitivity analysis for climate/land-use change co-extinctions 🦤 projections](https://github.com/cjabradshaw/CCcoextGSA)
 - [palaeo-ecological networks 🔗 for estimating trophic cascades of the Naracoorte community](https://github.com/cjabradshaw/Inferring-networks-and-modelling-trophic-cascades)
 - [predicting predator-prey interactions in terrestrial endotherms using random forest 🌲🌳](https://github.com/cjabradshaw/random-forests-for-predicting-predator-prey-interactions-in-terrestrial-vertebrates)
-- [planetary 🌐 annihilation co-extinctions simulation 🖥️](https://github.com/cjabradshaw/co-extinctions)
+- [planetary 🌐 annihilation co-extinctions 🦤 simulation 🖥️](https://github.com/cjabradshaw/co-extinctions)
 
 ### _Evolution_
 - [coelacanth evolution 🐟](https://github.com/cjabradshaw/CoelacanthEvolution)
