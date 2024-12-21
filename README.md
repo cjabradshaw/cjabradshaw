@@ -53,6 +53,7 @@ I am the <a href="http://www.flinders.edu.au/people/corey.bradshaw">Matthew Flin
 - [Australian Shark-Incident Database 💻](https://github.com/cjabradshaw/AustralianSharkIncidentDatabase) (ASID)
 
 ### _Human population dynamics & movement_
+- [Stochastic epidemiological models to test the origin and demographic impact of smallpox 🦠 on Aboriginal 🪃 Australians in the 18<sup>th</sup> Century](https://github.com/cjabradshaw/Smallpox-in-Aboriginal-Australia)
 - [estimating the pre-colonial size of the Indigenous 🪃 population in Australia](https://github.com/cjabradshaw/AusIndigN)
 - [global human population 🫂 switch from self-facilitation](https://github.com/cjabradshaw/globalHumanPopSwitch)
 - [projections of human populations in Cyprus 🇨🇾 during the Late Pleistocene🚶‍](https://github.com/cjabradshaw/CyprusHumanPleistocene)
